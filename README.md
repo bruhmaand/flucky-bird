@@ -1,4 +1,4 @@
-# flucky-bird
+# flucky-bird-Game
 
 # screenshots
 
